@@ -1,0 +1,37 @@
+{
+  "kind": "collectionType",
+  "collectionName": "user_info",
+  "info": {
+    "singularName": "users-info",
+    "pluralName": "user-info",
+    "displayName": "users-info",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "username": {
+      "type": "string"
+    },
+    "password": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "joinedAt": {
+      "type": "string"
+    },
+    "userId": {
+      "type": "string"
+    },
+    "firstname": {
+      "type": "string"
+    },
+    "lastname": {
+      "type": "string"
+    }
+  }
+}
