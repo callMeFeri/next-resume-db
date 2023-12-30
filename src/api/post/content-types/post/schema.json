@@ -13,7 +13,7 @@
   "pluginOptions": {},
   "attributes": {
     "postsContent": {
-      "type": "blocks"
+      "type": "string"
     },
     "userId": {
       "type": "string"
